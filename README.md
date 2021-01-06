@@ -21,7 +21,7 @@ and running it is with (should run also without args):
 
 `ant -Dargs="path_to_level_file" run`
 
-*(if the level file is not found - the default levels file will be played. If the background image file is not found, the default background clean white).*
+*(if the level file is not found - the [default levels](./resources/Default_Levels.txt) file will be played. If the background image file is not found, the default background clean white).*
 
 ![opening screen](./screenshots/1.jpg)
 ![level1](./screenshots/2.jpg)
