@@ -14,9 +14,13 @@ The game is made in a way that is able to read the txt file, and change the code
 You must have Java SE 10 or higher installed on your machine. 
 You can download the entire source code and run the game via any Java IDEA, if you do be sure to also download the provided *biuoop-1.4.jar* (located [here](./biuoop-1.4.jar)).
 Compiling the code should work using the command:
+
 `ant compile`
+
 and running it is with (should run also without args):
+
 `ant -Dargs="path_to_level_file" run`
+
 *(if the level file is not found - the default levels file will be played. If the background image file is not found, the default background clean white).*
 
 ![opening screen](./screenshots/1.jpg)
