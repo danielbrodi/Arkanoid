@@ -3,7 +3,7 @@ Final product of a 5-part-semester project in Java. This project was coded as a 
 This project was coded using a single thread, which is rare for games such as this. Also, it uses no Java GUI Built-In objects, instead, I used a GUI implementation which is included in this repository.
 
 # Creating and Editing Levels
-This is a special arkanoid game: In order to add or edit levels in the game, you don't have to learn to code! Inside the `Arkanoid/resources/definitions` you will find simple txt files. The level_definition.txt file defines each level's charateristics in the game. By writing in this file you can edit the design of the game. Without coding, you can change anything from the name of the level, the images, the number of balls, the velocities, the blocks, etc.
+This is a special arkanoid game: In order to add or edit levels in the game, you don't have to learn to code! Inside the `Arkanoid/resources/definitions` you will find simple txt files. The `level_definition.txt` file defines each level's charateristics in the game. By writing in this file you can edit the design of the game. Without coding, you can change anything from the name of the level, the images, the number of balls, the velocities, the blocks, etc.
 
 In addition, each level has its own file in which you can further personalize the blocks desing of each level separately.
 
