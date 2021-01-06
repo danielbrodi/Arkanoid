@@ -1,0 +1,60 @@
+# Level 1
+# Stairway to heaven because it's our last assignment which means we arrived to heaven, and also the guitar solo in this song is beyond amazing.
+
+START_LEVEL
+level_name: Stairway To Heaven
+ball_velocities:40,5 55,6 70,7
+background:image(resources/background_images/stairs.jpg)
+paddle_speed:15
+paddle_width:200
+block_definitions:resources/definitions/stairs.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:143
+START_BLOCKS
+-
+-
+bwwwwwwwwwwwwwb
+w-------------w
+bw-----------wb
+--w---------w--
+b--w-------w--b
+----w-----w----
+b----w---w----b
+------wyw------
+bwwwwwwwwwwwwwb
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# It's your time to save Arkham City as Batman
+
+START_LEVEL
+level_name: Arkham City
+ball_velocities:4,5 20,6 30,7 40,8
+background:image(resources/background_images/batman.jpg)
+paddle_speed:15
+paddle_width:111
+block_definitions:resources/definitions/batman.txt
+blocks_start_x:40
+blocks_start_y:40
+row_height:25
+num_blocks:385
+START_BLOCKS
+-------E-------------------------E
+-------EEEE----------E-----E----------EEEE
+-----DDDD------------DDDDDDD------------DDDD
+---DDDDDD------------DDDDDDD------------DDDDDD
+--DDDDDDDDD---------DDDDDDDDD---------DDDDDDDDD
+-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+--DDDDD-------DDDDDDDDDDDDDDDDDDDDD-------DDDDD
+----DDDD-------DDD----DDDDD----DDD-------DDDD
+-------DD-------D------DDD------D-------DD
+
+END_BLOCKS
+END_LEVEL
