@@ -4,13 +4,6 @@ default height:14 width:14 stroke:color(yellow)
 # block definitions
 bdef symbol:D fill:color(black)
 bdef symbol:E fill:color(black) stroke:color(white)
-bdef symbol:y fill:color(yellow)
-bdef symbol:r fill:color(red)
-bdef symbol:g fill:color(green)
-bdef symbol:p fill:color(pink)
-bdef symbol:w fill:color(white)
-bdef symbol:c fill:color(cyan)
-bdef symbol:o fill:color(orange)
 
 # spacers definitions
 sdef symbol:- width:13
